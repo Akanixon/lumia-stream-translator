@@ -1,2 +1,3 @@
-# lumia-stream-translator
-This is a snippet for a deepL based translator integration using "Chat Match" command in Lumia Stream
+# Lumia Stream Custom Code Repository
+This repository includes a translation script for the use inside a "Chat Match" command
+And MUCH MORE TO COME
